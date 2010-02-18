@@ -1,0 +1,4 @@
+SonicToy is a toy application that will be thrown away. With that said…
+
+======== SONIC TOY ================
+SonicToy connects doctors and patients in the simplest way possible. Anyone using SonicToy person can create a doctor or patient account with a name, email address, password, and phone number. Both doctors and patients can mark themselves as "available." SonicToy will connect the first available doctor with the first available patient and create a "click to call" button for both parties. When a call is initiated by either party, twilio will connect the two parties and record the encounter with a few details (time, duration, and parties). Each doctor and patient will have a simple profile including an encounter history. Also SonicToy has an admin interface that allows for the manual creation of doctors, patients, and encounters.
